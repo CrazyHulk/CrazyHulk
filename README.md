@@ -1,0 +1,2 @@
+![CrazyHulk's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyHulk&count_private=true)
+
